@@ -9,7 +9,7 @@ I am a seasoned Full-Stack Developer with 9+ years of extensive experience build
 ✔WCF Services, SignalR, MQTT Tools
 
 🎨Frontend Development:
-✔Angular, ReactJS
+✔Angular, ReactJS, NextJs
 ✔jQuery, JavaScript, Kendo UI (MVC, jQuery)
 
 ☁️Cloud and DevOps:
