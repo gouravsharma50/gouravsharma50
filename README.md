@@ -1,4 +1,4 @@
-I am a seasoned Full-Stack Developer with 9+ years of extensive experience building robust, scalable, high-performance web applications. My expertise spans across multiple technologies, including .NET MVC/Web API, .NET Core, Angular, and ReactJS, making me well-equipped to handle diverse project requirements.
+I am a seasoned Full-Stack Developer with 10+ years of extensive experience building robust, scalable, high-performance web applications. My expertise spans across multiple technologies, including .NET MVC/Web API, .NET Core, Angular, and ReactJS, making me well-equipped to handle diverse project requirements.
 
 🛠️Core Technical Skills:
 
